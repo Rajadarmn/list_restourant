@@ -6,7 +6,7 @@ import 'package:flutter_application_1/restourant_surabaya/main_screen.dart';
 void main() {
   runApp(
     DevicePreview(
-    enabled:!kReleaseMode,
+    enabled:true,
     builder: (context) => MyApp(), 
   ));
 }
