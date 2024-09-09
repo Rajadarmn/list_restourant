@@ -89,3 +89,11 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+icons_launcher:
+  image_path: "assets/ic_logo_border.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true

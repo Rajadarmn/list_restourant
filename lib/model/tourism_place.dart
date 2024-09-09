@@ -65,7 +65,7 @@ var tourismPlaceList = [
         'De Soematra adalah restoran fine dining mewah di Surabaya yang terletak di sebuah bangunan kolonial bersejarah. Restoran ini menawarkan suasana elegan dan klasik dengan dekorasi antik, menghadirkan pengalaman makan yang eksklusif. De Soematra menyajikan hidangan internasional, dengan menu yang menggabungkan rasa dan presentasi berkualitas tinggi. Tempat ini sering digunakan untuk acara spesial, seperti pernikahan atau jamuan bisnis, karena lokasinya yang istimewa dan pelayanan yang premium.',
     openDays: 'Open Everyday',
     openTime: '11.00-21.00',
-    imageAsset: 'asset/do-Soematra.jpg',
+    imageAsset: 'asset/do-soematra.jpg',
     imageUrls: [
       'asset/do1.jpg',
        'asset/do2.jpg',
